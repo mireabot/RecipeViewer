@@ -7,7 +7,7 @@
   - **API.invalidData** for displaying invalid data
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
-- **Architecture** I'm using modular approach for most my projects because this is a gateway to scale it in the future, so it's good to set things in the ealy stage rathen than building tech debt
+- **Architecture** I'm using modular approach for most my projects because this is a gateway to scale it in the future, so it's good to set things in the ealy stage rathen than building tech debt, instead of MVVM pattern I utilized MV approach reducing dependencies and extra files
 - **UI/UX** Eventually I came to iOS development because of compact desing (like only screen size) and challenge to fit most data in small views. Even this project is a one screen app, I tried to make it oragnized and compatible with dark theme
 
 ### Time Spent: Approximately how long did you spend working on this project? How did you allocate your time?
